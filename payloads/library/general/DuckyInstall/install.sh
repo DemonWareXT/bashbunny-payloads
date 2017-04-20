@@ -5,7 +5,7 @@
 # Check Switch Position
 source bunny_helpers.sh
 
-TARGET_DIR='/root/tools'
+TARGET_DIR='/root/tools/'
 RELEASE_ARCHIVE=$(find /root/udisk/payloads/${SWITCH_POSITION} -name DuckToolkit-*)
 
 echo "Install Log:" > /tmp/duck_installer.log
