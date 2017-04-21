@@ -22,7 +22,7 @@ ATTACKMODE HID STORAGE
 
 
 # Set language
-QUACK SET_LANGUAGE gb
+DUCKY_LANG gb
 
 
 # Source bunny_helpers.sh to allow the value fo SWITCH_POSITION to be returned
